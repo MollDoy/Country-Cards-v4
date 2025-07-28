@@ -77,12 +77,12 @@
                         rounded="lg"
                         elevation="2"
                         color="primary"
-                        text="Learn more"
                         variant="outlined"
                         v-bind:href=linkToWiki
                         rel="noopener"
                         target="_blank"
                         block>
+                        {{ $t('countryCards.wikiButtonText') }}
                         </v-btn>
                     </v-col>
                     <v-col cols="2">
