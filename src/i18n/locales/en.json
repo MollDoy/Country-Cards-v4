@@ -37,6 +37,7 @@
         "flag": "Flag",
         "coatOfArms": "Coat of Arms",
         "afterFlagOrCOA": " of the ",
-        "flagOrCOAEnd": " is:"
+        "flagOrCOAEnd": " is:",
+        "wikiButtonText": "Learn More"
     }
 }

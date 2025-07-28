@@ -37,6 +37,7 @@
         "flag": "Флаг",
         "coatOfArms": "Герб",
         "afterFlagOrCOA": " страны ",
-        "flagOrCOAEnd": ":"
+        "flagOrCOAEnd": ":",
+        "wikiButtonText": "Узнать больше"
     }
 }
